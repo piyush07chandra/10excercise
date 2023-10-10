@@ -6,3 +6,9 @@
     animation: float2 12s infinite;
   }
   
+.image{
+  background-image: url('/image3.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
